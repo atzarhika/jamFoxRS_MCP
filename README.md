@@ -101,7 +101,7 @@ Tekan Enter. Alat akan *restart* dan memunculkan teks baru saat pertama kali men
 
 
 3. **Data Sensor Menunjukkan Angka "0" atau Freeze:**
-* Cek jalur kabel hijau/coklat/oranye CAN H dan CAN L. Seringkali pin ini tertukar dari soket motor. Putar kunci kontak OFF, tukar posisinya di modul MCP2515, lalu ON-kan lagi.
+* Cek jalur kabel abu-abu CAN H dan CAN L. Seringkali pin ini tertukar dari soket motor. Putar kunci kontak OFF, tukar posisinya di modul MCP2515, lalu ON-kan lagi.
 * Pastikan Jumper Resistor 120 Ohm di MCP2515 tertancap sempurna.
 * Modul MCP2515 Anda kurang tegangan. Ingat, ESP32-C3 logikanya 3.3V, tapi tegangan suplai IC MCP2515 **WAJIB 5 Volt (VBUS)**.
 
