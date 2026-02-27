@@ -112,7 +112,7 @@ Tekan Enter. Alat akan *restart* dan memunculkan teks baru saat pertama kali men
 ---
 ### Thanks to
 
-- @zexry619 (https://github.com/zexry619/votol-esp32-can-bus)
-- @yudhaime
+- @zexry619 (https://github.com/zexry619)
+- @yudhaime (https://github.com/yudhaime)
 
 ---
